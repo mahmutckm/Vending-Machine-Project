@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otomat-Makinesi", "Otomat-Makinesi\Otomat-Makinesi.csproj", "{C805D672-B50C-4EC2-BE9D-338C36F146A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C805D672-B50C-4EC2-BE9D-338C36F146A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C805D672-B50C-4EC2-BE9D-338C36F146A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C805D672-B50C-4EC2-BE9D-338C36F146A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C805D672-B50C-4EC2-BE9D-338C36F146A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6550E56-EA74-4484-98DB-76DD20471F34}
+	EndGlobalSection
+EndGlobal
